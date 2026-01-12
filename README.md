@@ -1,6 +1,6 @@
 # CSV OSC Player & Recorder
 
-A Python application for playing and recording OSC (Open Sound Control) messages using CSV files.
+An application for playing and recording OSC (Open Sound Control) messages using CSV files.
 
 ![Screenshot](/Screenshot_OSC2CSV.png)
 
