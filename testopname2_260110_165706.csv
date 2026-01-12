@@ -1,0 +1,18 @@
+# TESTOPNAME2 OSC Recording
+# Started: Sat Jan 10 16:57:06 2026
+# Format: timestamp,address,value
+time,address,value
+7.174595,/test5,example
+15.305126,/test5,1
+18.206739,/test5,0
+26.792472,/test5,6
+40.030682,/test5,5.234560012817383
+48.262496,/test5,
+48.908553,/test5,
+49.124977,/test5,
+49.282932,/test5,
+53.491717,/test5,example
+53.885035,/test5,example
+54.076448,/test5,example
+
+# Duration: 58.7 seconds
