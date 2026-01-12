@@ -2,6 +2,8 @@
 
 A Python application for playing and recording OSC (Open Sound Control) messages using CSV files.
 
+![Screenshot](/Screenshot_OSC2CSV.png)
+
 ## Features
 
 ### Playback
